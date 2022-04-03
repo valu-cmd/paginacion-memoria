@@ -14,8 +14,6 @@ namespace PagMemory
     /*Instituto Tecnológico de Puebla
      * Materia: Arquitectura de Computadoras
      * @author: Valeria Alvarado Palma
-     *          Isai Franco Peña
-     *          Nayeli Enciso Contreras
     */
 
     public partial class FSimulador : Form
